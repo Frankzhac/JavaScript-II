@@ -1,7 +1,15 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+function daGod() {
+  const king = "Elohim";
+  console.log(`Hello from above! How are you ${Elohim}`)
 
-
+  function planet() {
+    const name = "Yashua";
+    console.log(`Hello from above! Have you prayed to ${king}`)
+  }
+  planet();
+}
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
